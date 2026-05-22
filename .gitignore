@@ -1,0 +1,23 @@
+# Database files
+db/*.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dependencies
+node_modules/
+
+# Temp
+*.tmp
+*.log
