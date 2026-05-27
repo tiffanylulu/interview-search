@@ -1,0 +1,637 @@
+[
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议有哪五大设计原则？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 Google ADK？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RAG 的完整流程是怎么样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "说说 Java 中 HashMap 的原理？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java",
+      "Java 基础"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "Java 中 ConcurrentHashMap 1.7 和 1.8 之间有哪些区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 JDK 1.8 对 HashMap 进行了红黑树的改动？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "JDK 1.8 对 HashMap 除了红黑树还进行了哪些改动？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "Java 中有哪些集合类？请简单介绍",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 索引的最左前缀匹配原则是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "数据库的脏读、不可重复读和幻读分别是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的存储引擎有哪些？它们之间有什么区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的覆盖索引是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的索引类型有哪些？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的索引下推是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL InnoDB 引擎中的聚簇索引和非聚簇索引有什么区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中的回表是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中使用索引一定有效吗？如何排查索引效果？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库",
+      "场景题"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RabbitMQ 怎么实现延迟队列？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "消息队列",
+      "RabbitMQ"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中的索引数量是否越多越好？为什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 RocketMQ 不使用 Zookeeper 作为注册中心呢？而选择自己实现 NameServer？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "RocketMQ",
+      "消息队列",
+      "后端"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "高级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "请详细描述 MySQL 的 B+ 树中查询数据的全过程",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RabbitMQ 中消息什么时候会进入死信交换机？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "RabbitMQ",
+      "消息队列",
+      "后端"
+    ],
+    "sub_category": ""
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 MySQL 选择使用 B+ 树作为索引结构？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": ""
+  }
+]

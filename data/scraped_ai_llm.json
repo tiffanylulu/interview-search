@@ -1,0 +1,6146 @@
+[
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "sub_category": "",
+    "_source_id": "2031643525468151809",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": false
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "sub_category": "",
+    "_source_id": "1909864020422012930",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1909895340787347458",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议有哪五大设计原则？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043148128258",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910235326833721345",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 Google ADK？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "sub_category": "",
+    "_source_id": "1924281357186498562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RAG 的完整流程是怎么样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910262700195414018",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043395592193",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910276173482655746",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043643056130",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910534938416754689",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "sub_category": "",
+    "_source_id": "1916432330246103042",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910542542891614209",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910609088653524993",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912765231981187074",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912781951991074817",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912795349320720385",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912805533338296322",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913119866891001857",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913129432949186562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "sub_category": "",
+    "_source_id": "2031643525468151809",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": false
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "sub_category": "",
+    "_source_id": "1909864020422012930",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1909895340787347458",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议有哪五大设计原则？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043148128258",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910235326833721345",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 Google ADK？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "sub_category": "",
+    "_source_id": "1924281357186498562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RAG 的完整流程是怎么样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910262700195414018",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043395592193",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910276173482655746",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043643056130",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910534938416754689",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "sub_category": "",
+    "_source_id": "1916432330246103042",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910542542891614209",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910609088653524993",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912765231981187074",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912781951991074817",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912795349320720385",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912805533338296322",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913119866891001857",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913129432949186562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "sub_category": "",
+    "_source_id": "2031643525468151809",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": false
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "sub_category": "",
+    "_source_id": "1909864020422012930",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1909895340787347458",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议有哪五大设计原则？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043148128258",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910235326833721345",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 Google ADK？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "sub_category": "",
+    "_source_id": "1924281357186498562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RAG 的完整流程是怎么样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910262700195414018",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043395592193",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910276173482655746",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043643056130",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910534938416754689",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "sub_category": "",
+    "_source_id": "1916432330246103042",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910542542891614209",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910609088653524993",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912765231981187074",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912781951991074817",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912795349320720385",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912805533338296322",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913119866891001857",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913129432949186562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "sub_category": "",
+    "_source_id": "2031643525468151809",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": false
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "sub_category": "",
+    "_source_id": "1909864020422012930",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1909895340787347458",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议有哪五大设计原则？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043148128258",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910235326833721345",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 Google ADK？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "sub_category": "",
+    "_source_id": "1924281357186498562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RAG 的完整流程是怎么样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910262700195414018",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043395592193",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910276173482655746",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043643056130",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910534938416754689",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "sub_category": "",
+    "_source_id": "1916432330246103042",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910542542891614209",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910609088653524993",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912765231981187074",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912781951991074817",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912795349320720385",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912805533338296322",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913119866891001857",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913129432949186562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "sub_category": "",
+    "_source_id": "2031643525468151809",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": false
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "sub_category": "",
+    "_source_id": "1909864020422012930",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1909895340787347458",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议有哪五大设计原则？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043148128258",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910235326833721345",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 Google ADK？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "sub_category": "",
+    "_source_id": "1924281357186498562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RAG 的完整流程是怎么样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910262700195414018",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043395592193",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910276173482655746",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043643056130",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910534938416754689",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "sub_category": "",
+    "_source_id": "1916432330246103042",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910542542891614209",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910609088653524993",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912765231981187074",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912781951991074817",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912795349320720385",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912805533338296322",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913119866891001857",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913129432949186562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "sub_category": "",
+    "_source_id": "2031643525468151809",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": false
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "sub_category": "",
+    "_source_id": "1909864020422012930",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1909895340787347458",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议有哪五大设计原则？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043148128258",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910235326833721345",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 Google ADK？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "sub_category": "",
+    "_source_id": "1924281357186498562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RAG 的完整流程是怎么样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910262700195414018",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043395592193",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910276173482655746",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043643056130",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910534938416754689",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "sub_category": "",
+    "_source_id": "1916432330246103042",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910542542891614209",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910609088653524993",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912765231981187074",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912781951991074817",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912795349320720385",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912805533338296322",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913119866891001857",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913129432949186562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "sub_category": "",
+    "_source_id": "2031643525468151809",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": false
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "sub_category": "",
+    "_source_id": "1909864020422012930",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1909895340787347458",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议有哪五大设计原则？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043148128258",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910235326833721345",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 Google ADK？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "sub_category": "",
+    "_source_id": "1924281357186498562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RAG 的完整流程是怎么样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910262700195414018",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043395592193",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910276173482655746",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043643056130",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910534938416754689",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "sub_category": "",
+    "_source_id": "1916432330246103042",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910542542891614209",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910609088653524993",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912765231981187074",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912781951991074817",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912795349320720385",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912805533338296322",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913119866891001857",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913129432949186562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "sub_category": "",
+    "_source_id": "2031643525468151809",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": false
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "sub_category": "",
+    "_source_id": "1909864020422012930",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1909895340787347458",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议有哪五大设计原则？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043148128258",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910235326833721345",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 Google ADK？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "sub_category": "",
+    "_source_id": "1924281357186498562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RAG 的完整流程是怎么样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910262700195414018",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043395592193",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910276173482655746",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043643056130",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910534938416754689",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "sub_category": "",
+    "_source_id": "1916432330246103042",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910542542891614209",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910609088653524993",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912765231981187074",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912781951991074817",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912795349320720385",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912805533338296322",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913119866891001857",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913129432949186562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "sub_category": "",
+    "_source_id": "2031643525468151809",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": false
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "sub_category": "",
+    "_source_id": "1909864020422012930",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1909895340787347458",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议有哪五大设计原则？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043148128258",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910235326833721345",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 Google ADK？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "sub_category": "",
+    "_source_id": "1924281357186498562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RAG 的完整流程是怎么样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910262700195414018",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043395592193",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910276173482655746",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043643056130",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910534938416754689",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "sub_category": "",
+    "_source_id": "1916432330246103042",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910542542891614209",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910609088653524993",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912765231981187074",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912781951991074817",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912795349320720385",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912805533338296322",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913119866891001857",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913129432949186562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "sub_category": "",
+    "_source_id": "2031643525468151809",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": false
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "sub_category": "",
+    "_source_id": "1909864020422012930",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1909895340787347458",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议有哪五大设计原则？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043148128258",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910235326833721345",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 Google ADK？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "sub_category": "",
+    "_source_id": "1924281357186498562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RAG 的完整流程是怎么样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910262700195414018",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043395592193",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910276173482655746",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043643056130",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910534938416754689",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "sub_category": "",
+    "_source_id": "1916432330246103042",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910542542891614209",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910609088653524993",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912765231981187074",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912781951991074817",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912795349320720385",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912805533338296322",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913119866891001857",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913129432949186562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "sub_category": "",
+    "_source_id": "2031643525468151809",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": false
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "sub_category": "",
+    "_source_id": "1909864020422012930",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1909895340787347458",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议有哪五大设计原则？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043148128258",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910235326833721345",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 Google ADK？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "sub_category": "",
+    "_source_id": "1924281357186498562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RAG 的完整流程是怎么样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910262700195414018",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043395592193",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910276173482655746",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043643056130",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910534938416754689",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "sub_category": "",
+    "_source_id": "1916432330246103042",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910542542891614209",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910609088653524993",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912765231981187074",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912781951991074817",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912795349320720385",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912805533338296322",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913119866891001857",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913129432949186562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "sub_category": "",
+    "_source_id": "2031643525468151809",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": false
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "sub_category": "",
+    "_source_id": "1909864020422012930",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1909895340787347458",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议有哪五大设计原则？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043148128258",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910235326833721345",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 Google ADK？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "sub_category": "",
+    "_source_id": "1924281357186498562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RAG 的完整流程是怎么样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910262700195414018",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043395592193",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910276173482655746",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043643056130",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910534938416754689",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "sub_category": "",
+    "_source_id": "1916432330246103042",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910542542891614209",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910609088653524993",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912765231981187074",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912781951991074817",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912795349320720385",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912805533338296322",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913119866891001857",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913129432949186562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "sub_category": "",
+    "_source_id": "2031643525468151809",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": false
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "sub_category": "",
+    "_source_id": "1909864020422012930",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1909895340787347458",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议有哪五大设计原则？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043148128258",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910235326833721345",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 Google ADK？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "sub_category": "",
+    "_source_id": "1924281357186498562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RAG 的完整流程是怎么样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910262700195414018",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043395592193",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910276173482655746",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043643056130",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910534938416754689",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "sub_category": "",
+    "_source_id": "1916432330246103042",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910542542891614209",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910609088653524993",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912765231981187074",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912781951991074817",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912795349320720385",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912805533338296322",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913119866891001857",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913129432949186562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "sub_category": "",
+    "_source_id": "2031643525468151809",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": false
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "sub_category": "",
+    "_source_id": "1909864020422012930",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1909895340787347458",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议有哪五大设计原则？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043148128258",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910235326833721345",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 Google ADK？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "sub_category": "",
+    "_source_id": "1924281357186498562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RAG 的完整流程是怎么样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910262700195414018",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043395592193",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910276173482655746",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043643056130",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910534938416754689",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "sub_category": "",
+    "_source_id": "1916432330246103042",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910542542891614209",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910609088653524993",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912765231981187074",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912781951991074817",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912795349320720385",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912805533338296322",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913119866891001857",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913129432949186562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "sub_category": "",
+    "_source_id": "2031643525468151809",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": false
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "sub_category": "",
+    "_source_id": "1909864020422012930",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1909895340787347458",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议有哪五大设计原则？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043148128258",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910235326833721345",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 Google ADK？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "sub_category": "",
+    "_source_id": "1924281357186498562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RAG 的完整流程是怎么样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910262700195414018",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043395592193",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910276173482655746",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043643056130",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910534938416754689",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "sub_category": "",
+    "_source_id": "1916432330246103042",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910542542891614209",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910609088653524993",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912765231981187074",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912781951991074817",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912795349320720385",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912805533338296322",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913119866891001857",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913129432949186562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "sub_category": "",
+    "_source_id": "2031643525468151809",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": false
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "sub_category": "",
+    "_source_id": "1909864020422012930",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1909895340787347458",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议有哪五大设计原则？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043148128258",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910235326833721345",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 Google ADK？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "sub_category": "",
+    "_source_id": "1924281357186498562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RAG 的完整流程是怎么样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910262700195414018",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043395592193",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910276173482655746",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "sub_category": "",
+    "_source_id": "1916425043643056130",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910534938416754689",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "sub_category": "",
+    "_source_id": "1916432330246103042",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910542542891614209",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1910609088653524993",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912765231981187074",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912781951991074817",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912795349320720385",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1912805533338296322",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913119866891001857",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  },
+  {
+    "position": "AI-Agent工程师",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "description": "本题来自面试鸭「AI大模型面试题库」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "sub_category": "",
+    "_source_id": "1913129432949186562",
+    "_source_bank": "1906189461556076546",
+    "_is_vip": true
+  }
+]

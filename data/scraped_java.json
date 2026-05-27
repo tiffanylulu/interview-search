@@ -1,0 +1,3712 @@
+[
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "说说 Java 中 HashMap 的原理？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java",
+      "Java 基础"
+    ],
+    "sub_category": "",
+    "_source_id": "1834107117591187457",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "Java 中 ConcurrentHashMap 1.7 和 1.8 之间有哪些区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294813114369",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 JDK 1.8 对 HashMap 进行了红黑树的改动？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294771171329",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "JDK 1.8 对 HashMap 除了红黑树还进行了哪些改动？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294775365634",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "Java 中有哪些集合类？请简单介绍",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294699868162",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 索引的最左前缀匹配原则是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295450648578",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "数据库的脏读、不可重复读和幻读分别是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295496785922",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的存储引擎有哪些？它们之间有什么区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295433871361",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的覆盖索引是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295454842881",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的索引类型有哪些？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295438065665",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的索引下推是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295459037186",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL InnoDB 引擎中的聚簇索引和非聚簇索引有什么区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295442259970",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中的回表是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295446454273",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中使用索引一定有效吗？如何排查索引效果？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库",
+      "场景题"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295463231490",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RabbitMQ 怎么实现延迟队列？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "消息队列",
+      "RabbitMQ"
+    ],
+    "sub_category": "",
+    "_source_id": "1824003166933868546",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中的索引数量是否越多越好？为什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295467425794",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 RocketMQ 不使用 Zookeeper 作为注册中心呢？而选择自己实现 NameServer？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "RocketMQ",
+      "消息队列",
+      "后端"
+    ],
+    "sub_category": "",
+    "_source_id": "1806753671221846017",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "高级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "请详细描述 MySQL 的 B+ 树中查询数据的全过程",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295471620098",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RabbitMQ 中消息什么时候会进入死信交换机？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "RabbitMQ",
+      "消息队列",
+      "后端"
+    ],
+    "sub_category": "",
+    "_source_id": "1803522489495052290",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 MySQL 选择使用 B+ 树作为索引结构？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295475814402",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "说说 Java 中 HashMap 的原理？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java",
+      "Java 基础"
+    ],
+    "sub_category": "",
+    "_source_id": "1834107117591187457",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "Java 中 ConcurrentHashMap 1.7 和 1.8 之间有哪些区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294813114369",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 JDK 1.8 对 HashMap 进行了红黑树的改动？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294771171329",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "JDK 1.8 对 HashMap 除了红黑树还进行了哪些改动？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294775365634",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "Java 中有哪些集合类？请简单介绍",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294699868162",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 索引的最左前缀匹配原则是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295450648578",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "数据库的脏读、不可重复读和幻读分别是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295496785922",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的存储引擎有哪些？它们之间有什么区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295433871361",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的覆盖索引是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295454842881",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的索引类型有哪些？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295438065665",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的索引下推是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295459037186",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL InnoDB 引擎中的聚簇索引和非聚簇索引有什么区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295442259970",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中的回表是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295446454273",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中使用索引一定有效吗？如何排查索引效果？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库",
+      "场景题"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295463231490",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RabbitMQ 怎么实现延迟队列？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "消息队列",
+      "RabbitMQ"
+    ],
+    "sub_category": "",
+    "_source_id": "1824003166933868546",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中的索引数量是否越多越好？为什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295467425794",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 RocketMQ 不使用 Zookeeper 作为注册中心呢？而选择自己实现 NameServer？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "RocketMQ",
+      "消息队列",
+      "后端"
+    ],
+    "sub_category": "",
+    "_source_id": "1806753671221846017",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "高级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "请详细描述 MySQL 的 B+ 树中查询数据的全过程",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295471620098",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RabbitMQ 中消息什么时候会进入死信交换机？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "RabbitMQ",
+      "消息队列",
+      "后端"
+    ],
+    "sub_category": "",
+    "_source_id": "1803522489495052290",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 MySQL 选择使用 B+ 树作为索引结构？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295475814402",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "说说 Java 中 HashMap 的原理？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java",
+      "Java 基础"
+    ],
+    "sub_category": "",
+    "_source_id": "1834107117591187457",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "Java 中 ConcurrentHashMap 1.7 和 1.8 之间有哪些区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294813114369",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 JDK 1.8 对 HashMap 进行了红黑树的改动？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294771171329",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "JDK 1.8 对 HashMap 除了红黑树还进行了哪些改动？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294775365634",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "Java 中有哪些集合类？请简单介绍",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294699868162",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 索引的最左前缀匹配原则是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295450648578",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "数据库的脏读、不可重复读和幻读分别是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295496785922",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的存储引擎有哪些？它们之间有什么区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295433871361",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的覆盖索引是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295454842881",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的索引类型有哪些？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295438065665",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的索引下推是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295459037186",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL InnoDB 引擎中的聚簇索引和非聚簇索引有什么区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295442259970",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中的回表是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295446454273",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中使用索引一定有效吗？如何排查索引效果？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库",
+      "场景题"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295463231490",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RabbitMQ 怎么实现延迟队列？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "消息队列",
+      "RabbitMQ"
+    ],
+    "sub_category": "",
+    "_source_id": "1824003166933868546",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中的索引数量是否越多越好？为什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295467425794",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 RocketMQ 不使用 Zookeeper 作为注册中心呢？而选择自己实现 NameServer？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "RocketMQ",
+      "消息队列",
+      "后端"
+    ],
+    "sub_category": "",
+    "_source_id": "1806753671221846017",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "高级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "请详细描述 MySQL 的 B+ 树中查询数据的全过程",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295471620098",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RabbitMQ 中消息什么时候会进入死信交换机？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "RabbitMQ",
+      "消息队列",
+      "后端"
+    ],
+    "sub_category": "",
+    "_source_id": "1803522489495052290",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 MySQL 选择使用 B+ 树作为索引结构？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295475814402",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "说说 Java 中 HashMap 的原理？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java",
+      "Java 基础"
+    ],
+    "sub_category": "",
+    "_source_id": "1834107117591187457",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "Java 中 ConcurrentHashMap 1.7 和 1.8 之间有哪些区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294813114369",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 JDK 1.8 对 HashMap 进行了红黑树的改动？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294771171329",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "JDK 1.8 对 HashMap 除了红黑树还进行了哪些改动？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294775365634",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "Java 中有哪些集合类？请简单介绍",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294699868162",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 索引的最左前缀匹配原则是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295450648578",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "数据库的脏读、不可重复读和幻读分别是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295496785922",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的存储引擎有哪些？它们之间有什么区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295433871361",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的覆盖索引是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295454842881",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的索引类型有哪些？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295438065665",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的索引下推是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295459037186",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL InnoDB 引擎中的聚簇索引和非聚簇索引有什么区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295442259970",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中的回表是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295446454273",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中使用索引一定有效吗？如何排查索引效果？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库",
+      "场景题"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295463231490",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RabbitMQ 怎么实现延迟队列？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "消息队列",
+      "RabbitMQ"
+    ],
+    "sub_category": "",
+    "_source_id": "1824003166933868546",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中的索引数量是否越多越好？为什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295467425794",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 RocketMQ 不使用 Zookeeper 作为注册中心呢？而选择自己实现 NameServer？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "RocketMQ",
+      "消息队列",
+      "后端"
+    ],
+    "sub_category": "",
+    "_source_id": "1806753671221846017",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "高级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "请详细描述 MySQL 的 B+ 树中查询数据的全过程",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295471620098",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RabbitMQ 中消息什么时候会进入死信交换机？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "RabbitMQ",
+      "消息队列",
+      "后端"
+    ],
+    "sub_category": "",
+    "_source_id": "1803522489495052290",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 MySQL 选择使用 B+ 树作为索引结构？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295475814402",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "说说 Java 中 HashMap 的原理？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java",
+      "Java 基础"
+    ],
+    "sub_category": "",
+    "_source_id": "1834107117591187457",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "Java 中 ConcurrentHashMap 1.7 和 1.8 之间有哪些区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294813114369",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 JDK 1.8 对 HashMap 进行了红黑树的改动？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294771171329",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "JDK 1.8 对 HashMap 除了红黑树还进行了哪些改动？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294775365634",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "Java 中有哪些集合类？请简单介绍",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294699868162",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 索引的最左前缀匹配原则是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295450648578",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "数据库的脏读、不可重复读和幻读分别是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295496785922",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的存储引擎有哪些？它们之间有什么区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295433871361",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的覆盖索引是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295454842881",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的索引类型有哪些？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295438065665",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的索引下推是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295459037186",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL InnoDB 引擎中的聚簇索引和非聚簇索引有什么区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295442259970",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中的回表是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295446454273",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中使用索引一定有效吗？如何排查索引效果？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库",
+      "场景题"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295463231490",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RabbitMQ 怎么实现延迟队列？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "消息队列",
+      "RabbitMQ"
+    ],
+    "sub_category": "",
+    "_source_id": "1824003166933868546",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中的索引数量是否越多越好？为什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295467425794",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 RocketMQ 不使用 Zookeeper 作为注册中心呢？而选择自己实现 NameServer？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "RocketMQ",
+      "消息队列",
+      "后端"
+    ],
+    "sub_category": "",
+    "_source_id": "1806753671221846017",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "高级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "请详细描述 MySQL 的 B+ 树中查询数据的全过程",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295471620098",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RabbitMQ 中消息什么时候会进入死信交换机？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "RabbitMQ",
+      "消息队列",
+      "后端"
+    ],
+    "sub_category": "",
+    "_source_id": "1803522489495052290",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 MySQL 选择使用 B+ 树作为索引结构？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295475814402",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "说说 Java 中 HashMap 的原理？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java",
+      "Java 基础"
+    ],
+    "sub_category": "",
+    "_source_id": "1834107117591187457",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "Java 中 ConcurrentHashMap 1.7 和 1.8 之间有哪些区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294813114369",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 JDK 1.8 对 HashMap 进行了红黑树的改动？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294771171329",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "JDK 1.8 对 HashMap 除了红黑树还进行了哪些改动？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294775365634",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "Java 中有哪些集合类？请简单介绍",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294699868162",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 索引的最左前缀匹配原则是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295450648578",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "数据库的脏读、不可重复读和幻读分别是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295496785922",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的存储引擎有哪些？它们之间有什么区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295433871361",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的覆盖索引是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295454842881",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的索引类型有哪些？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295438065665",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的索引下推是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295459037186",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL InnoDB 引擎中的聚簇索引和非聚簇索引有什么区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295442259970",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中的回表是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295446454273",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中使用索引一定有效吗？如何排查索引效果？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库",
+      "场景题"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295463231490",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RabbitMQ 怎么实现延迟队列？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "消息队列",
+      "RabbitMQ"
+    ],
+    "sub_category": "",
+    "_source_id": "1824003166933868546",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中的索引数量是否越多越好？为什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295467425794",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 RocketMQ 不使用 Zookeeper 作为注册中心呢？而选择自己实现 NameServer？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "RocketMQ",
+      "消息队列",
+      "后端"
+    ],
+    "sub_category": "",
+    "_source_id": "1806753671221846017",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "高级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "请详细描述 MySQL 的 B+ 树中查询数据的全过程",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295471620098",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RabbitMQ 中消息什么时候会进入死信交换机？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "RabbitMQ",
+      "消息队列",
+      "后端"
+    ],
+    "sub_category": "",
+    "_source_id": "1803522489495052290",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 MySQL 选择使用 B+ 树作为索引结构？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295475814402",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "说说 Java 中 HashMap 的原理？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java",
+      "Java 基础"
+    ],
+    "sub_category": "",
+    "_source_id": "1834107117591187457",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "Java 中 ConcurrentHashMap 1.7 和 1.8 之间有哪些区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294813114369",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 JDK 1.8 对 HashMap 进行了红黑树的改动？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294771171329",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "JDK 1.8 对 HashMap 除了红黑树还进行了哪些改动？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294775365634",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "Java 中有哪些集合类？请简单介绍",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294699868162",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 索引的最左前缀匹配原则是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295450648578",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "数据库的脏读、不可重复读和幻读分别是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295496785922",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的存储引擎有哪些？它们之间有什么区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295433871361",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的覆盖索引是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295454842881",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的索引类型有哪些？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295438065665",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的索引下推是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295459037186",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL InnoDB 引擎中的聚簇索引和非聚簇索引有什么区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295442259970",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中的回表是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295446454273",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中使用索引一定有效吗？如何排查索引效果？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库",
+      "场景题"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295463231490",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RabbitMQ 怎么实现延迟队列？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "消息队列",
+      "RabbitMQ"
+    ],
+    "sub_category": "",
+    "_source_id": "1824003166933868546",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中的索引数量是否越多越好？为什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295467425794",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 RocketMQ 不使用 Zookeeper 作为注册中心呢？而选择自己实现 NameServer？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "RocketMQ",
+      "消息队列",
+      "后端"
+    ],
+    "sub_category": "",
+    "_source_id": "1806753671221846017",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "高级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "请详细描述 MySQL 的 B+ 树中查询数据的全过程",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295471620098",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RabbitMQ 中消息什么时候会进入死信交换机？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "RabbitMQ",
+      "消息队列",
+      "后端"
+    ],
+    "sub_category": "",
+    "_source_id": "1803522489495052290",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 MySQL 选择使用 B+ 树作为索引结构？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295475814402",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "说说 Java 中 HashMap 的原理？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java",
+      "Java 基础"
+    ],
+    "sub_category": "",
+    "_source_id": "1834107117591187457",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "Java 中 ConcurrentHashMap 1.7 和 1.8 之间有哪些区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294813114369",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 JDK 1.8 对 HashMap 进行了红黑树的改动？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294771171329",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "JDK 1.8 对 HashMap 除了红黑树还进行了哪些改动？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294775365634",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "Java 中有哪些集合类？请简单介绍",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294699868162",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 索引的最左前缀匹配原则是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295450648578",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "数据库的脏读、不可重复读和幻读分别是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295496785922",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的存储引擎有哪些？它们之间有什么区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295433871361",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的覆盖索引是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295454842881",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的索引类型有哪些？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295438065665",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的索引下推是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295459037186",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL InnoDB 引擎中的聚簇索引和非聚簇索引有什么区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295442259970",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中的回表是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295446454273",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中使用索引一定有效吗？如何排查索引效果？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库",
+      "场景题"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295463231490",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RabbitMQ 怎么实现延迟队列？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "消息队列",
+      "RabbitMQ"
+    ],
+    "sub_category": "",
+    "_source_id": "1824003166933868546",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中的索引数量是否越多越好？为什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295467425794",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 RocketMQ 不使用 Zookeeper 作为注册中心呢？而选择自己实现 NameServer？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "RocketMQ",
+      "消息队列",
+      "后端"
+    ],
+    "sub_category": "",
+    "_source_id": "1806753671221846017",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "高级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "请详细描述 MySQL 的 B+ 树中查询数据的全过程",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295471620098",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RabbitMQ 中消息什么时候会进入死信交换机？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "RabbitMQ",
+      "消息队列",
+      "后端"
+    ],
+    "sub_category": "",
+    "_source_id": "1803522489495052290",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 MySQL 选择使用 B+ 树作为索引结构？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295475814402",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "说说 Java 中 HashMap 的原理？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java",
+      "Java 基础"
+    ],
+    "sub_category": "",
+    "_source_id": "1834107117591187457",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "Java 中 ConcurrentHashMap 1.7 和 1.8 之间有哪些区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294813114369",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 JDK 1.8 对 HashMap 进行了红黑树的改动？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294771171329",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "JDK 1.8 对 HashMap 除了红黑树还进行了哪些改动？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294775365634",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "Java 中有哪些集合类？请简单介绍",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294699868162",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 索引的最左前缀匹配原则是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295450648578",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "数据库的脏读、不可重复读和幻读分别是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295496785922",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的存储引擎有哪些？它们之间有什么区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295433871361",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的覆盖索引是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295454842881",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的索引类型有哪些？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295438065665",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的索引下推是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295459037186",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL InnoDB 引擎中的聚簇索引和非聚簇索引有什么区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295442259970",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中的回表是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295446454273",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中使用索引一定有效吗？如何排查索引效果？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库",
+      "场景题"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295463231490",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RabbitMQ 怎么实现延迟队列？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "消息队列",
+      "RabbitMQ"
+    ],
+    "sub_category": "",
+    "_source_id": "1824003166933868546",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中的索引数量是否越多越好？为什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295467425794",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 RocketMQ 不使用 Zookeeper 作为注册中心呢？而选择自己实现 NameServer？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "RocketMQ",
+      "消息队列",
+      "后端"
+    ],
+    "sub_category": "",
+    "_source_id": "1806753671221846017",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "高级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "请详细描述 MySQL 的 B+ 树中查询数据的全过程",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295471620098",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RabbitMQ 中消息什么时候会进入死信交换机？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "RabbitMQ",
+      "消息队列",
+      "后端"
+    ],
+    "sub_category": "",
+    "_source_id": "1803522489495052290",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 MySQL 选择使用 B+ 树作为索引结构？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295475814402",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "说说 Java 中 HashMap 的原理？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java",
+      "Java 基础"
+    ],
+    "sub_category": "",
+    "_source_id": "1834107117591187457",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "Java 中 ConcurrentHashMap 1.7 和 1.8 之间有哪些区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294813114369",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 JDK 1.8 对 HashMap 进行了红黑树的改动？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294771171329",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "JDK 1.8 对 HashMap 除了红黑树还进行了哪些改动？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294775365634",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "Java 中有哪些集合类？请简单介绍",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（答案待补充）",
+    "tags": [
+      "Java 集合",
+      "Java"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933294699868162",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": false
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 索引的最左前缀匹配原则是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295450648578",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "数据库的脏读、不可重复读和幻读分别是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295496785922",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的存储引擎有哪些？它们之间有什么区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295433871361",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的覆盖索引是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295454842881",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "初级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的索引类型有哪些？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295438065665",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 的索引下推是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295459037186",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL InnoDB 引擎中的聚簇索引和非聚簇索引有什么区别？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295442259970",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中的回表是什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295446454273",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中使用索引一定有效吗？如何排查索引效果？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库",
+      "场景题"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295463231490",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RabbitMQ 怎么实现延迟队列？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "消息队列",
+      "RabbitMQ"
+    ],
+    "sub_category": "",
+    "_source_id": "1824003166933868546",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "MySQL 中的索引数量是否越多越好？为什么？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295467425794",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 RocketMQ 不使用 Zookeeper 作为注册中心呢？而选择自己实现 NameServer？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "RocketMQ",
+      "消息队列",
+      "后端"
+    ],
+    "sub_category": "",
+    "_source_id": "1806753671221846017",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "高级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "请详细描述 MySQL 的 B+ 树中查询数据的全过程",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295471620098",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "RabbitMQ 中消息什么时候会进入死信交换机？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "RabbitMQ",
+      "消息队列",
+      "后端"
+    ],
+    "sub_category": "",
+    "_source_id": "1803522489495052290",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  },
+  {
+    "position": "后端开发",
+    "difficulty": "中级",
+    "source": "面试鸭",
+    "publishDate": "2026-05-27",
+    "title": "为什么 MySQL 选择使用 B+ 树作为索引结构？",
+    "description": "本题来自面试鸭「Java热门面试题200道」",
+    "answer": "（VIP专属题目，详细答案需面试鸭会员查看）",
+    "tags": [
+      "VIP",
+      "后端",
+      "MySQL",
+      "数据库"
+    ],
+    "sub_category": "",
+    "_source_id": "1780933295475814402",
+    "_source_bank": "1860871861809897474",
+    "_is_vip": true
+  }
+]

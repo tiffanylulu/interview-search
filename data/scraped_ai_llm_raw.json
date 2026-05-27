@@ -1,0 +1,4226 @@
+[
+  {
+    "question_id": "2031643525468151809",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "is_vip": false,
+    "page": 1
+  },
+  {
+    "question_id": "1909864020422012930",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "is_vip": true,
+    "page": 1
+  },
+  {
+    "question_id": "1909895340787347458",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 1
+  },
+  {
+    "question_id": "1916425043148128258",
+    "title": "A2A 协议有哪五大设计原则？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "is_vip": true,
+    "page": 1
+  },
+  {
+    "question_id": "1910235326833721345",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 1
+  },
+  {
+    "question_id": "1924281357186498562",
+    "title": "什么是 Google ADK？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "is_vip": true,
+    "page": 1
+  },
+  {
+    "question_id": "1910262700195414018",
+    "title": "RAG 的完整流程是怎么样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 1
+  },
+  {
+    "question_id": "1916425043395592193",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "is_vip": true,
+    "page": 1
+  },
+  {
+    "question_id": "1910276173482655746",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 1
+  },
+  {
+    "question_id": "1916425043643056130",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "is_vip": true,
+    "page": 1
+  },
+  {
+    "question_id": "1910534938416754689",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 1
+  },
+  {
+    "question_id": "1916432330246103042",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "is_vip": true,
+    "page": 1
+  },
+  {
+    "question_id": "1910542542891614209",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 1
+  },
+  {
+    "question_id": "1910609088653524993",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 1
+  },
+  {
+    "question_id": "1912765231981187074",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 1
+  },
+  {
+    "question_id": "1912781951991074817",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 1
+  },
+  {
+    "question_id": "1912795349320720385",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 1
+  },
+  {
+    "question_id": "1912805533338296322",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 1
+  },
+  {
+    "question_id": "1913119866891001857",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 1
+  },
+  {
+    "question_id": "1913129432949186562",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 1
+  },
+  {
+    "question_id": "2031643525468151809",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "is_vip": false,
+    "page": 2
+  },
+  {
+    "question_id": "1909864020422012930",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "is_vip": true,
+    "page": 2
+  },
+  {
+    "question_id": "1909895340787347458",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 2
+  },
+  {
+    "question_id": "1916425043148128258",
+    "title": "A2A 协议有哪五大设计原则？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "is_vip": true,
+    "page": 2
+  },
+  {
+    "question_id": "1910235326833721345",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 2
+  },
+  {
+    "question_id": "1924281357186498562",
+    "title": "什么是 Google ADK？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "is_vip": true,
+    "page": 2
+  },
+  {
+    "question_id": "1910262700195414018",
+    "title": "RAG 的完整流程是怎么样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 2
+  },
+  {
+    "question_id": "1916425043395592193",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "is_vip": true,
+    "page": 2
+  },
+  {
+    "question_id": "1910276173482655746",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 2
+  },
+  {
+    "question_id": "1916425043643056130",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "is_vip": true,
+    "page": 2
+  },
+  {
+    "question_id": "1910534938416754689",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 2
+  },
+  {
+    "question_id": "1916432330246103042",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "is_vip": true,
+    "page": 2
+  },
+  {
+    "question_id": "1910542542891614209",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 2
+  },
+  {
+    "question_id": "1910609088653524993",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 2
+  },
+  {
+    "question_id": "1912765231981187074",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 2
+  },
+  {
+    "question_id": "1912781951991074817",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 2
+  },
+  {
+    "question_id": "1912795349320720385",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 2
+  },
+  {
+    "question_id": "1912805533338296322",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 2
+  },
+  {
+    "question_id": "1913119866891001857",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 2
+  },
+  {
+    "question_id": "1913129432949186562",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 2
+  },
+  {
+    "question_id": "2031643525468151809",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "is_vip": false,
+    "page": 3
+  },
+  {
+    "question_id": "1909864020422012930",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "is_vip": true,
+    "page": 3
+  },
+  {
+    "question_id": "1909895340787347458",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 3
+  },
+  {
+    "question_id": "1916425043148128258",
+    "title": "A2A 协议有哪五大设计原则？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "is_vip": true,
+    "page": 3
+  },
+  {
+    "question_id": "1910235326833721345",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 3
+  },
+  {
+    "question_id": "1924281357186498562",
+    "title": "什么是 Google ADK？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "is_vip": true,
+    "page": 3
+  },
+  {
+    "question_id": "1910262700195414018",
+    "title": "RAG 的完整流程是怎么样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 3
+  },
+  {
+    "question_id": "1916425043395592193",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "is_vip": true,
+    "page": 3
+  },
+  {
+    "question_id": "1910276173482655746",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 3
+  },
+  {
+    "question_id": "1916425043643056130",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "is_vip": true,
+    "page": 3
+  },
+  {
+    "question_id": "1910534938416754689",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 3
+  },
+  {
+    "question_id": "1916432330246103042",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "is_vip": true,
+    "page": 3
+  },
+  {
+    "question_id": "1910542542891614209",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 3
+  },
+  {
+    "question_id": "1910609088653524993",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 3
+  },
+  {
+    "question_id": "1912765231981187074",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 3
+  },
+  {
+    "question_id": "1912781951991074817",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 3
+  },
+  {
+    "question_id": "1912795349320720385",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 3
+  },
+  {
+    "question_id": "1912805533338296322",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 3
+  },
+  {
+    "question_id": "1913119866891001857",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 3
+  },
+  {
+    "question_id": "1913129432949186562",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 3
+  },
+  {
+    "question_id": "2031643525468151809",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "is_vip": false,
+    "page": 4
+  },
+  {
+    "question_id": "1909864020422012930",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "is_vip": true,
+    "page": 4
+  },
+  {
+    "question_id": "1909895340787347458",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 4
+  },
+  {
+    "question_id": "1916425043148128258",
+    "title": "A2A 协议有哪五大设计原则？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "is_vip": true,
+    "page": 4
+  },
+  {
+    "question_id": "1910235326833721345",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 4
+  },
+  {
+    "question_id": "1924281357186498562",
+    "title": "什么是 Google ADK？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "is_vip": true,
+    "page": 4
+  },
+  {
+    "question_id": "1910262700195414018",
+    "title": "RAG 的完整流程是怎么样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 4
+  },
+  {
+    "question_id": "1916425043395592193",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "is_vip": true,
+    "page": 4
+  },
+  {
+    "question_id": "1910276173482655746",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 4
+  },
+  {
+    "question_id": "1916425043643056130",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "is_vip": true,
+    "page": 4
+  },
+  {
+    "question_id": "1910534938416754689",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 4
+  },
+  {
+    "question_id": "1916432330246103042",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "is_vip": true,
+    "page": 4
+  },
+  {
+    "question_id": "1910542542891614209",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 4
+  },
+  {
+    "question_id": "1910609088653524993",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 4
+  },
+  {
+    "question_id": "1912765231981187074",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 4
+  },
+  {
+    "question_id": "1912781951991074817",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 4
+  },
+  {
+    "question_id": "1912795349320720385",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 4
+  },
+  {
+    "question_id": "1912805533338296322",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 4
+  },
+  {
+    "question_id": "1913119866891001857",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 4
+  },
+  {
+    "question_id": "1913129432949186562",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 4
+  },
+  {
+    "question_id": "2031643525468151809",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "is_vip": false,
+    "page": 5
+  },
+  {
+    "question_id": "1909864020422012930",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "is_vip": true,
+    "page": 5
+  },
+  {
+    "question_id": "1909895340787347458",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 5
+  },
+  {
+    "question_id": "1916425043148128258",
+    "title": "A2A 协议有哪五大设计原则？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "is_vip": true,
+    "page": 5
+  },
+  {
+    "question_id": "1910235326833721345",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 5
+  },
+  {
+    "question_id": "1924281357186498562",
+    "title": "什么是 Google ADK？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "is_vip": true,
+    "page": 5
+  },
+  {
+    "question_id": "1910262700195414018",
+    "title": "RAG 的完整流程是怎么样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 5
+  },
+  {
+    "question_id": "1916425043395592193",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "is_vip": true,
+    "page": 5
+  },
+  {
+    "question_id": "1910276173482655746",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 5
+  },
+  {
+    "question_id": "1916425043643056130",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "is_vip": true,
+    "page": 5
+  },
+  {
+    "question_id": "1910534938416754689",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 5
+  },
+  {
+    "question_id": "1916432330246103042",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "is_vip": true,
+    "page": 5
+  },
+  {
+    "question_id": "1910542542891614209",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 5
+  },
+  {
+    "question_id": "1910609088653524993",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 5
+  },
+  {
+    "question_id": "1912765231981187074",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 5
+  },
+  {
+    "question_id": "1912781951991074817",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 5
+  },
+  {
+    "question_id": "1912795349320720385",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 5
+  },
+  {
+    "question_id": "1912805533338296322",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 5
+  },
+  {
+    "question_id": "1913119866891001857",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 5
+  },
+  {
+    "question_id": "1913129432949186562",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 5
+  },
+  {
+    "question_id": "2031643525468151809",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "is_vip": false,
+    "page": 6
+  },
+  {
+    "question_id": "1909864020422012930",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "is_vip": true,
+    "page": 6
+  },
+  {
+    "question_id": "1909895340787347458",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 6
+  },
+  {
+    "question_id": "1916425043148128258",
+    "title": "A2A 协议有哪五大设计原则？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "is_vip": true,
+    "page": 6
+  },
+  {
+    "question_id": "1910235326833721345",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 6
+  },
+  {
+    "question_id": "1924281357186498562",
+    "title": "什么是 Google ADK？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "is_vip": true,
+    "page": 6
+  },
+  {
+    "question_id": "1910262700195414018",
+    "title": "RAG 的完整流程是怎么样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 6
+  },
+  {
+    "question_id": "1916425043395592193",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "is_vip": true,
+    "page": 6
+  },
+  {
+    "question_id": "1910276173482655746",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 6
+  },
+  {
+    "question_id": "1916425043643056130",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "is_vip": true,
+    "page": 6
+  },
+  {
+    "question_id": "1910534938416754689",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 6
+  },
+  {
+    "question_id": "1916432330246103042",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "is_vip": true,
+    "page": 6
+  },
+  {
+    "question_id": "1910542542891614209",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 6
+  },
+  {
+    "question_id": "1910609088653524993",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 6
+  },
+  {
+    "question_id": "1912765231981187074",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 6
+  },
+  {
+    "question_id": "1912781951991074817",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 6
+  },
+  {
+    "question_id": "1912795349320720385",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 6
+  },
+  {
+    "question_id": "1912805533338296322",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 6
+  },
+  {
+    "question_id": "1913119866891001857",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 6
+  },
+  {
+    "question_id": "1913129432949186562",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 6
+  },
+  {
+    "question_id": "2031643525468151809",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "is_vip": false,
+    "page": 7
+  },
+  {
+    "question_id": "1909864020422012930",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "is_vip": true,
+    "page": 7
+  },
+  {
+    "question_id": "1909895340787347458",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 7
+  },
+  {
+    "question_id": "1916425043148128258",
+    "title": "A2A 协议有哪五大设计原则？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "is_vip": true,
+    "page": 7
+  },
+  {
+    "question_id": "1910235326833721345",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 7
+  },
+  {
+    "question_id": "1924281357186498562",
+    "title": "什么是 Google ADK？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "is_vip": true,
+    "page": 7
+  },
+  {
+    "question_id": "1910262700195414018",
+    "title": "RAG 的完整流程是怎么样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 7
+  },
+  {
+    "question_id": "1916425043395592193",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "is_vip": true,
+    "page": 7
+  },
+  {
+    "question_id": "1910276173482655746",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 7
+  },
+  {
+    "question_id": "1916425043643056130",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "is_vip": true,
+    "page": 7
+  },
+  {
+    "question_id": "1910534938416754689",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 7
+  },
+  {
+    "question_id": "1916432330246103042",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "is_vip": true,
+    "page": 7
+  },
+  {
+    "question_id": "1910542542891614209",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 7
+  },
+  {
+    "question_id": "1910609088653524993",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 7
+  },
+  {
+    "question_id": "1912765231981187074",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 7
+  },
+  {
+    "question_id": "1912781951991074817",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 7
+  },
+  {
+    "question_id": "1912795349320720385",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 7
+  },
+  {
+    "question_id": "1912805533338296322",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 7
+  },
+  {
+    "question_id": "1913119866891001857",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 7
+  },
+  {
+    "question_id": "1913129432949186562",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 7
+  },
+  {
+    "question_id": "2031643525468151809",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "is_vip": false,
+    "page": 8
+  },
+  {
+    "question_id": "1909864020422012930",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "is_vip": true,
+    "page": 8
+  },
+  {
+    "question_id": "1909895340787347458",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 8
+  },
+  {
+    "question_id": "1916425043148128258",
+    "title": "A2A 协议有哪五大设计原则？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "is_vip": true,
+    "page": 8
+  },
+  {
+    "question_id": "1910235326833721345",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 8
+  },
+  {
+    "question_id": "1924281357186498562",
+    "title": "什么是 Google ADK？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "is_vip": true,
+    "page": 8
+  },
+  {
+    "question_id": "1910262700195414018",
+    "title": "RAG 的完整流程是怎么样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 8
+  },
+  {
+    "question_id": "1916425043395592193",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "is_vip": true,
+    "page": 8
+  },
+  {
+    "question_id": "1910276173482655746",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 8
+  },
+  {
+    "question_id": "1916425043643056130",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "is_vip": true,
+    "page": 8
+  },
+  {
+    "question_id": "1910534938416754689",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 8
+  },
+  {
+    "question_id": "1916432330246103042",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "is_vip": true,
+    "page": 8
+  },
+  {
+    "question_id": "1910542542891614209",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 8
+  },
+  {
+    "question_id": "1910609088653524993",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 8
+  },
+  {
+    "question_id": "1912765231981187074",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 8
+  },
+  {
+    "question_id": "1912781951991074817",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 8
+  },
+  {
+    "question_id": "1912795349320720385",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 8
+  },
+  {
+    "question_id": "1912805533338296322",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 8
+  },
+  {
+    "question_id": "1913119866891001857",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 8
+  },
+  {
+    "question_id": "1913129432949186562",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 8
+  },
+  {
+    "question_id": "2031643525468151809",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "is_vip": false,
+    "page": 9
+  },
+  {
+    "question_id": "1909864020422012930",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "is_vip": true,
+    "page": 9
+  },
+  {
+    "question_id": "1909895340787347458",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 9
+  },
+  {
+    "question_id": "1916425043148128258",
+    "title": "A2A 协议有哪五大设计原则？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "is_vip": true,
+    "page": 9
+  },
+  {
+    "question_id": "1910235326833721345",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 9
+  },
+  {
+    "question_id": "1924281357186498562",
+    "title": "什么是 Google ADK？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "is_vip": true,
+    "page": 9
+  },
+  {
+    "question_id": "1910262700195414018",
+    "title": "RAG 的完整流程是怎么样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 9
+  },
+  {
+    "question_id": "1916425043395592193",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "is_vip": true,
+    "page": 9
+  },
+  {
+    "question_id": "1910276173482655746",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 9
+  },
+  {
+    "question_id": "1916425043643056130",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "is_vip": true,
+    "page": 9
+  },
+  {
+    "question_id": "1910534938416754689",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 9
+  },
+  {
+    "question_id": "1916432330246103042",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "is_vip": true,
+    "page": 9
+  },
+  {
+    "question_id": "1910542542891614209",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 9
+  },
+  {
+    "question_id": "1910609088653524993",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 9
+  },
+  {
+    "question_id": "1912765231981187074",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 9
+  },
+  {
+    "question_id": "1912781951991074817",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 9
+  },
+  {
+    "question_id": "1912795349320720385",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 9
+  },
+  {
+    "question_id": "1912805533338296322",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 9
+  },
+  {
+    "question_id": "1913119866891001857",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 9
+  },
+  {
+    "question_id": "1913129432949186562",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 9
+  },
+  {
+    "question_id": "2031643525468151809",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "is_vip": false,
+    "page": 10
+  },
+  {
+    "question_id": "1909864020422012930",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "is_vip": true,
+    "page": 10
+  },
+  {
+    "question_id": "1909895340787347458",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 10
+  },
+  {
+    "question_id": "1916425043148128258",
+    "title": "A2A 协议有哪五大设计原则？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "is_vip": true,
+    "page": 10
+  },
+  {
+    "question_id": "1910235326833721345",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 10
+  },
+  {
+    "question_id": "1924281357186498562",
+    "title": "什么是 Google ADK？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "is_vip": true,
+    "page": 10
+  },
+  {
+    "question_id": "1910262700195414018",
+    "title": "RAG 的完整流程是怎么样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 10
+  },
+  {
+    "question_id": "1916425043395592193",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "is_vip": true,
+    "page": 10
+  },
+  {
+    "question_id": "1910276173482655746",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 10
+  },
+  {
+    "question_id": "1916425043643056130",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "is_vip": true,
+    "page": 10
+  },
+  {
+    "question_id": "1910534938416754689",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 10
+  },
+  {
+    "question_id": "1916432330246103042",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "is_vip": true,
+    "page": 10
+  },
+  {
+    "question_id": "1910542542891614209",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 10
+  },
+  {
+    "question_id": "1910609088653524993",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 10
+  },
+  {
+    "question_id": "1912765231981187074",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 10
+  },
+  {
+    "question_id": "1912781951991074817",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 10
+  },
+  {
+    "question_id": "1912795349320720385",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 10
+  },
+  {
+    "question_id": "1912805533338296322",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 10
+  },
+  {
+    "question_id": "1913119866891001857",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 10
+  },
+  {
+    "question_id": "1913129432949186562",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 10
+  },
+  {
+    "question_id": "2031643525468151809",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "is_vip": false,
+    "page": 11
+  },
+  {
+    "question_id": "1909864020422012930",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "is_vip": true,
+    "page": 11
+  },
+  {
+    "question_id": "1909895340787347458",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 11
+  },
+  {
+    "question_id": "1916425043148128258",
+    "title": "A2A 协议有哪五大设计原则？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "is_vip": true,
+    "page": 11
+  },
+  {
+    "question_id": "1910235326833721345",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 11
+  },
+  {
+    "question_id": "1924281357186498562",
+    "title": "什么是 Google ADK？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "is_vip": true,
+    "page": 11
+  },
+  {
+    "question_id": "1910262700195414018",
+    "title": "RAG 的完整流程是怎么样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 11
+  },
+  {
+    "question_id": "1916425043395592193",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "is_vip": true,
+    "page": 11
+  },
+  {
+    "question_id": "1910276173482655746",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 11
+  },
+  {
+    "question_id": "1916425043643056130",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "is_vip": true,
+    "page": 11
+  },
+  {
+    "question_id": "1910534938416754689",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 11
+  },
+  {
+    "question_id": "1916432330246103042",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "is_vip": true,
+    "page": 11
+  },
+  {
+    "question_id": "1910542542891614209",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 11
+  },
+  {
+    "question_id": "1910609088653524993",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 11
+  },
+  {
+    "question_id": "1912765231981187074",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 11
+  },
+  {
+    "question_id": "1912781951991074817",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 11
+  },
+  {
+    "question_id": "1912795349320720385",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 11
+  },
+  {
+    "question_id": "1912805533338296322",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 11
+  },
+  {
+    "question_id": "1913119866891001857",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 11
+  },
+  {
+    "question_id": "1913129432949186562",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 11
+  },
+  {
+    "question_id": "2031643525468151809",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "is_vip": false,
+    "page": 12
+  },
+  {
+    "question_id": "1909864020422012930",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "is_vip": true,
+    "page": 12
+  },
+  {
+    "question_id": "1909895340787347458",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 12
+  },
+  {
+    "question_id": "1916425043148128258",
+    "title": "A2A 协议有哪五大设计原则？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "is_vip": true,
+    "page": 12
+  },
+  {
+    "question_id": "1910235326833721345",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 12
+  },
+  {
+    "question_id": "1924281357186498562",
+    "title": "什么是 Google ADK？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "is_vip": true,
+    "page": 12
+  },
+  {
+    "question_id": "1910262700195414018",
+    "title": "RAG 的完整流程是怎么样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 12
+  },
+  {
+    "question_id": "1916425043395592193",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "is_vip": true,
+    "page": 12
+  },
+  {
+    "question_id": "1910276173482655746",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 12
+  },
+  {
+    "question_id": "1916425043643056130",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "is_vip": true,
+    "page": 12
+  },
+  {
+    "question_id": "1910534938416754689",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 12
+  },
+  {
+    "question_id": "1916432330246103042",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "is_vip": true,
+    "page": 12
+  },
+  {
+    "question_id": "1910542542891614209",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 12
+  },
+  {
+    "question_id": "1910609088653524993",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 12
+  },
+  {
+    "question_id": "1912765231981187074",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 12
+  },
+  {
+    "question_id": "1912781951991074817",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 12
+  },
+  {
+    "question_id": "1912795349320720385",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 12
+  },
+  {
+    "question_id": "1912805533338296322",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 12
+  },
+  {
+    "question_id": "1913119866891001857",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 12
+  },
+  {
+    "question_id": "1913129432949186562",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 12
+  },
+  {
+    "question_id": "2031643525468151809",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "is_vip": false,
+    "page": 13
+  },
+  {
+    "question_id": "1909864020422012930",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "is_vip": true,
+    "page": 13
+  },
+  {
+    "question_id": "1909895340787347458",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 13
+  },
+  {
+    "question_id": "1916425043148128258",
+    "title": "A2A 协议有哪五大设计原则？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "is_vip": true,
+    "page": 13
+  },
+  {
+    "question_id": "1910235326833721345",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 13
+  },
+  {
+    "question_id": "1924281357186498562",
+    "title": "什么是 Google ADK？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "is_vip": true,
+    "page": 13
+  },
+  {
+    "question_id": "1910262700195414018",
+    "title": "RAG 的完整流程是怎么样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 13
+  },
+  {
+    "question_id": "1916425043395592193",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "is_vip": true,
+    "page": 13
+  },
+  {
+    "question_id": "1910276173482655746",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 13
+  },
+  {
+    "question_id": "1916425043643056130",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "is_vip": true,
+    "page": 13
+  },
+  {
+    "question_id": "1910534938416754689",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 13
+  },
+  {
+    "question_id": "1916432330246103042",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "is_vip": true,
+    "page": 13
+  },
+  {
+    "question_id": "1910542542891614209",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 13
+  },
+  {
+    "question_id": "1910609088653524993",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 13
+  },
+  {
+    "question_id": "1912765231981187074",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 13
+  },
+  {
+    "question_id": "1912781951991074817",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 13
+  },
+  {
+    "question_id": "1912795349320720385",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 13
+  },
+  {
+    "question_id": "1912805533338296322",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 13
+  },
+  {
+    "question_id": "1913119866891001857",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 13
+  },
+  {
+    "question_id": "1913129432949186562",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 13
+  },
+  {
+    "question_id": "2031643525468151809",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "is_vip": false,
+    "page": 14
+  },
+  {
+    "question_id": "1909864020422012930",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "is_vip": true,
+    "page": 14
+  },
+  {
+    "question_id": "1909895340787347458",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 14
+  },
+  {
+    "question_id": "1916425043148128258",
+    "title": "A2A 协议有哪五大设计原则？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "is_vip": true,
+    "page": 14
+  },
+  {
+    "question_id": "1910235326833721345",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 14
+  },
+  {
+    "question_id": "1924281357186498562",
+    "title": "什么是 Google ADK？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "is_vip": true,
+    "page": 14
+  },
+  {
+    "question_id": "1910262700195414018",
+    "title": "RAG 的完整流程是怎么样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 14
+  },
+  {
+    "question_id": "1916425043395592193",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "is_vip": true,
+    "page": 14
+  },
+  {
+    "question_id": "1910276173482655746",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 14
+  },
+  {
+    "question_id": "1916425043643056130",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "is_vip": true,
+    "page": 14
+  },
+  {
+    "question_id": "1910534938416754689",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 14
+  },
+  {
+    "question_id": "1916432330246103042",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "is_vip": true,
+    "page": 14
+  },
+  {
+    "question_id": "1910542542891614209",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 14
+  },
+  {
+    "question_id": "1910609088653524993",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 14
+  },
+  {
+    "question_id": "1912765231981187074",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 14
+  },
+  {
+    "question_id": "1912781951991074817",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 14
+  },
+  {
+    "question_id": "1912795349320720385",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 14
+  },
+  {
+    "question_id": "1912805533338296322",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 14
+  },
+  {
+    "question_id": "1913119866891001857",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 14
+  },
+  {
+    "question_id": "1913129432949186562",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 14
+  },
+  {
+    "question_id": "2031643525468151809",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "is_vip": false,
+    "page": 15
+  },
+  {
+    "question_id": "1909864020422012930",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "is_vip": true,
+    "page": 15
+  },
+  {
+    "question_id": "1909895340787347458",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 15
+  },
+  {
+    "question_id": "1916425043148128258",
+    "title": "A2A 协议有哪五大设计原则？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "is_vip": true,
+    "page": 15
+  },
+  {
+    "question_id": "1910235326833721345",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 15
+  },
+  {
+    "question_id": "1924281357186498562",
+    "title": "什么是 Google ADK？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "is_vip": true,
+    "page": 15
+  },
+  {
+    "question_id": "1910262700195414018",
+    "title": "RAG 的完整流程是怎么样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 15
+  },
+  {
+    "question_id": "1916425043395592193",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "is_vip": true,
+    "page": 15
+  },
+  {
+    "question_id": "1910276173482655746",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 15
+  },
+  {
+    "question_id": "1916425043643056130",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "is_vip": true,
+    "page": 15
+  },
+  {
+    "question_id": "1910534938416754689",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 15
+  },
+  {
+    "question_id": "1916432330246103042",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "is_vip": true,
+    "page": 15
+  },
+  {
+    "question_id": "1910542542891614209",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 15
+  },
+  {
+    "question_id": "1910609088653524993",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 15
+  },
+  {
+    "question_id": "1912765231981187074",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 15
+  },
+  {
+    "question_id": "1912781951991074817",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 15
+  },
+  {
+    "question_id": "1912795349320720385",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 15
+  },
+  {
+    "question_id": "1912805533338296322",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 15
+  },
+  {
+    "question_id": "1913119866891001857",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 15
+  },
+  {
+    "question_id": "1913129432949186562",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 15
+  },
+  {
+    "question_id": "2031643525468151809",
+    "title": "最近 OpenClaw 这么火，你知道它的原理吗？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "AI",
+      "OpenClaw",
+      "大模型应用开发",
+      "Agent 开发",
+      "AI 应用开发"
+    ],
+    "is_vip": false,
+    "page": 16
+  },
+  {
+    "question_id": "1909864020422012930",
+    "title": "什么是 RAG？RAG 的主要流程是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG",
+      "编程导航"
+    ],
+    "is_vip": true,
+    "page": 16
+  },
+  {
+    "question_id": "1909895340787347458",
+    "title": "什么是 RAG 中的 Rerank？具体需要怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 16
+  },
+  {
+    "question_id": "1916425043148128258",
+    "title": "A2A 协议有哪五大设计原则？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "系统架构"
+    ],
+    "is_vip": true,
+    "page": 16
+  },
+  {
+    "question_id": "1910235326833721345",
+    "title": "什么混合检索？在基于大模型的应用开发中，混合检索主要解决什么问题？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 16
+  },
+  {
+    "question_id": "1924281357186498562",
+    "title": "什么是 Google ADK？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型"
+    ],
+    "is_vip": true,
+    "page": 16
+  },
+  {
+    "question_id": "1910262700195414018",
+    "title": "RAG 的完整流程是怎么样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 16
+  },
+  {
+    "question_id": "1916425043395592193",
+    "title": "A2A 协议的工作原理是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "技术栈"
+    ],
+    "is_vip": true,
+    "page": 16
+  },
+  {
+    "question_id": "1910276173482655746",
+    "title": "在 RAG 应用中为了优化检索精度，其中的数据清洗和预处理怎么做？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 16
+  },
+  {
+    "question_id": "1916425043643056130",
+    "title": "A2A 协议的工作流程是怎样的？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A"
+    ],
+    "is_vip": true,
+    "page": 16
+  },
+  {
+    "question_id": "1910534938416754689",
+    "title": "什么查询扩展？为什么在 RAG 应用中需要查询扩展？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 16
+  },
+  {
+    "question_id": "1916432330246103042",
+    "title": "A2A 协议 与 MCP 协议的关系是怎样的？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "大模型",
+      "AI",
+      "A2A",
+      "MCP"
+    ],
+    "is_vip": true,
+    "page": 16
+  },
+  {
+    "question_id": "1910542542891614209",
+    "title": "什么自查询？为什么在 RAG 中需要自查询？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 16
+  },
+  {
+    "question_id": "1910609088653524993",
+    "title": "什么提示压缩？为什么在 RAG 中需要提示压缩？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 16
+  },
+  {
+    "question_id": "1912765231981187074",
+    "title": "如何进行 RAG 调优后的效果评估？请给出真实应用场景中采用的效果评估标准与方法",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 16
+  },
+  {
+    "question_id": "1912781951991074817",
+    "title": "什么是 RAG 中的分块？为什么需要分块？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 16
+  },
+  {
+    "question_id": "1912795349320720385",
+    "title": "在 RAG 中，常见的分块策略有哪些？分别有什么区别？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 16
+  },
+  {
+    "question_id": "1912805533338296322",
+    "title": "在 RAG 中的 Embedding 嵌入是什么？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 16
+  },
+  {
+    "question_id": "1913119866891001857",
+    "title": "在 RAG 中，你知道有哪些 Embedding Model 嵌入模型？",
+    "difficulty_raw": "简单",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 16
+  },
+  {
+    "question_id": "1913129432949186562",
+    "title": "在 RAG 中，你如何选择 Embedding Model 嵌入模型，需要考虑哪些因素？",
+    "difficulty_raw": "中等",
+    "tags": [
+      "VIP",
+      "AI",
+      "大模型",
+      "RAG"
+    ],
+    "is_vip": true,
+    "page": 16
+  }
+]
