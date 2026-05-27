@@ -748,6 +748,11 @@ function highlight(text, kw) {
   return escHtml(text).replace(new RegExp(escaped, 'gi'), m => `<em>${m}</em>`);
 }
 function escHtml(s) { return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+function formatAnswer(text) {
+  const safe = escHtml(text || '暂无答案');
+  // 每个句号后换行（忽略句号后面的空白/右引号等，在句号处切断）
+  return safe.replace(/。(\s*)/g, '。<br>$1');
+}
 
 // ─── 视图切换 ─────────────────────────────────
 function setActiveNav(id) {
@@ -931,7 +936,7 @@ function renderList() {
         </tr>
         <tr id="ans-row-${q.id}" style="display:none">
           <td colspan="4" style="padding:0 16px 16px">
-            <div class="q-answer ${expandedId===q.id?'open':''}" id="ans-${q.id}">${escHtml(q.answer || '暂无答案')}</div>
+            <div class="q-answer ${expandedId===q.id?'open':''}" id="ans-${q.id}">${formatAnswer(q.answer)}</div>
           </td>
         </tr>`;
       }).join('')}</tbody>
