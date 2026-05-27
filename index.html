@@ -495,7 +495,7 @@
     </div>
     <div class="sidebar-divider"></div>
     <div class="sidebar-section" id="subCategorySection" style="display:none">
-      <div class="sidebar-heading">后端开发子分类</div>
+      <div class="sidebar-heading" id="subCategoryHeading">子分类</div>
       <div id="subCategoryNav"></div>
     </div>
     <div class="sidebar-divider"></div>
@@ -584,6 +584,24 @@ const SUB_CATEGORIES = [
   { key: '其他', icon: '📌', desc: 'Dubbo、ES、Docker、SSO、RBAC' },
 ];
 
+const AI_AGENT_SUB_CATEGORIES = [
+  { key: 'Agent 基础与架构', icon: '🤖', desc: 'Agent概念、Agentic Loop、架构模式、流式输出、错误恢复' },
+  { key: 'LangChain 与框架', icon: '⛓️', desc: 'LangChain、LangGraph、LCEL、LlamaIndex、OpenAI API' },
+  { key: 'RAG 基础', icon: '📚', desc: '检索增强生成、分块、Embedding、Rerank' },
+  { key: 'RAG 进阶与优化', icon: '🚀', desc: '混合检索、查询扩展、GraphRAG、Agentic RAG、评估' },
+  { key: 'Function Calling 与 Tool Use', icon: '🔧', desc: '工具调用机制、安全策略、异常处理' },
+  { key: 'Multi-Agent 系统', icon: '👥', desc: 'AutoGen、CrewAI、A2A协议、多智能体协作' },
+  { key: 'MCP 协议与集成', icon: '🔌', desc: 'MCP协议、OpenClaw、Google ADK' },
+  { key: 'Prompt 工程与安全', icon: '✍️', desc: '提示词技巧、注入防御、版本管理' },
+  { key: '模型与推理优化', icon: '⚙️', desc: '微调、LoRA、量化、推理加速、Token优化' },
+  { key: '企业级 Agent 系统设计', icon: '🏗️', desc: '记忆系统、评估体系、可观测性、权限控制' },
+];
+
+const POSITION_SUB_CATEGORIES = {
+  '后端开发': SUB_CATEGORIES,
+  'AI-Agent工程师': AI_AGENT_SUB_CATEGORIES,
+};
+
 // ─── 初始化 ─────────────────────────────────
 async function init() {
   loadStorage();
@@ -630,40 +648,46 @@ function buildSidebar() {
     container.appendChild(el);
   });
 
-  buildSubCategoryNav();
+  // buildSubCategoryNav will be called when position is selected
+  // (initially hidden)
 
   document.querySelectorAll('.diff-cnt').forEach(el => {
     el.textContent = diffCnts[el.dataset.d] || 0;
   });
 }
 
-function buildSubCategoryNav() {
+function buildSubCategoryNav(pos) {
   const container = document.getElementById('subCategoryNav');
   if (!container) return;
+  const cats = POSITION_SUB_CATEGORIES[pos] || [];
+  if (cats.length === 0) return;
   const subCnts = {};
-  SUB_CATEGORIES.forEach(sc => { subCnts[sc.key] = 0; });
+  cats.forEach(sc => { subCnts[sc.key] = 0; });
   allQuestions.forEach(q => {
-    if (q.position === '后端开发' && q.sub_category && subCnts.hasOwnProperty(q.sub_category)) {
+    if (q.position === pos && q.sub_category && subCnts.hasOwnProperty(q.sub_category)) {
       subCnts[q.sub_category]++;
     }
   });
   container.innerHTML = '';
-  const backendTotal = allQuestions.filter(q => q.position === '后端开发').length;
+  const posTotal = allQuestions.filter(q => q.position === pos).length;
   const allEl = document.createElement('div');
   allEl.className = 'sidebar-item'; allEl.id = 'sub-all';
-  allEl.innerHTML = `<span>📋 全部后端</span><span class="count">${backendTotal}</span>`;
-  allEl.onclick = (e) => { e.stopPropagation(); filterSubCategory(null); };
+  allEl.innerHTML = `<span>📋 全部${pos.replace('工程师','').replace('开发','')}</span><span class="count">${posTotal}</span>`;
+  allEl.onclick = (e) => { e.stopPropagation(); filterSubCategory(null, pos); };
   container.appendChild(allEl);
-  SUB_CATEGORIES.forEach(sc => {
+  cats.forEach(sc => {
     const cnt = subCnts[sc.key] || 0;
     if (cnt === 0) return;
     const el = document.createElement('div');
     el.className = 'sidebar-item'; el.id = `sub-${sc.key}`;
     el.innerHTML = `<span>${sc.icon} ${sc.key}</span><span class="count">${cnt}</span>`;
     el.title = sc.desc;
-    el.onclick = (e) => { e.stopPropagation(); filterSubCategory(sc.key); };
+    el.onclick = (e) => { e.stopPropagation(); filterSubCategory(sc.key, pos); };
     container.appendChild(el);
   });
+  // 更新标题
+  document.getElementById('subCategoryHeading').textContent = pos + '子分类';
+}
 }
 
 function buildRightSidebar() {
@@ -792,7 +816,14 @@ function filterPosition(pos) {
   document.getElementById('searchInput').value = '';
 
   const subSec = document.getElementById('subCategorySection');
-  if (subSec) subSec.style.display = (pos === '后端开发') ? '' : 'none';
+  const hasSubCats = POSITION_SUB_CATEGORIES[pos];
+  if (subSec) {
+    subSec.style.display = hasSubCats ? '' : 'none';
+    if (hasSubCats) {
+      buildSubCategoryNav(pos);
+      updateSubCategoryActive();
+    }
+  }
 
   setActiveNav(pos ? `pos-${pos}` : 'nav-all');
   if (pos) {
@@ -804,13 +835,14 @@ function filterPosition(pos) {
   closeSidebar();
 }
 
-function filterSubCategory(sub) {
+function filterSubCategory(sub, pos) {
   viewMode = 'list';
   currentSubCategory = (currentSubCategory === sub) ? null : sub;
-  if (currentSubCategory) {
-    currentPosition = '后端开发';
+  if (currentSubCategory && pos) {
+    currentPosition = pos;
     const subSec = document.getElementById('subCategorySection');
     if (subSec) subSec.style.display = '';
+    setActiveNav(`pos-${pos}`);
   }
   currentPage = 1;
   updateSubCategoryActive();
@@ -821,7 +853,7 @@ function filterSubCategory(sub) {
 function updateSubCategoryActive() {
   document.querySelectorAll('#subCategoryNav .sidebar-item').forEach(el => {
     const subKey = el.id.replace('sub-', '');
-    el.classList.toggle('active', subKey === currentSubCategory || (subKey === 'all' && currentSubCategory === null && currentPosition === '后端开发'));
+    el.classList.toggle('active', subKey === currentSubCategory || (subKey === 'all' && currentSubCategory === null));
   });
 }
 
@@ -892,6 +924,12 @@ function renderHome() {
 }
 
 // ─── 列表渲染（表格） ──────────────────────────
+function getSubCatInfo() {
+  if (!currentSubCategory || !currentPosition) return null;
+  const cats = POSITION_SUB_CATEGORIES[currentPosition] || [];
+  return cats.find(s => s.key === currentSubCategory) || null;
+}
+
 function renderList() {
   const filtered = getFiltered();
   const total = filtered.length;
@@ -901,7 +939,7 @@ function renderList() {
 
   let title = '全部题目';
   if (viewMode === 'favorites') title = '我的收藏';
-  else if (currentSubCategory) title = `后端开发 · ${currentSubCategory}`;
+  else if (currentSubCategory) title = `${currentPosition} · ${currentSubCategory}`;
   else if (currentPosition) title = currentPosition;
   else if (currentDifficulty) title = currentDifficulty + '难度';
   else if (currentKeyword) title = `搜索：${currentKeyword}`;
@@ -962,15 +1000,15 @@ function renderList() {
   // Breadcrumb
   let crumbs = `<a href="#" onclick="showHome();return false">首页</a><span class="sep">›</span>`;
   if (viewMode === 'favorites') crumbs += `<span>我的收藏</span>`;
-  else if (currentSubCategory) crumbs += `<a href="#" onclick="filterPosition('后端开发');return false">后端开发</a><span class="sep">›</span><span>${currentSubCategory}</span>`;
+  else if (currentSubCategory) crumbs += `<a href="#" onclick="filterPosition('${currentPosition}');return false">${currentPosition}</a><span class="sep">›</span><span>${currentSubCategory}</span>`;
   else if (currentPosition) crumbs += `<a href="#" onclick="filterPosition('');return false">全部题目</a><span class="sep">›</span><span>${currentPosition}</span>`;
   else crumbs += `<span>${title}</span>`;
 
   document.getElementById('app').innerHTML = `
     <div class="breadcrumb">${crumbs}</div>
     <div class="page-hero">
-      <h1>${currentSubCategory ? (SUB_CATEGORIES.find(s=>s.key===currentSubCategory)?.icon||'')+' '+currentSubCategory : (POSITION_ICONS[currentPosition]||'')+' '+title}</h1>
-      <p>${currentSubCategory ? (SUB_CATEGORIES.find(s=>s.key===currentSubCategory)?.desc||'') : (currentPosition ? POSITION_DESCS[currentPosition]||'' : '全量题目，支持按难度、关键词进行筛选检索')}</p>
+      <h1>${(() => { const sci = getSubCatInfo(); return sci ? (sci.icon||'')+' '+currentSubCategory : (POSITION_ICONS[currentPosition]||'')+' '+title; })()}</h1>
+      <p>${(() => { const sci = getSubCatInfo(); return sci ? sci.desc||'' : (currentPosition ? POSITION_DESCS[currentPosition]||'' : '全量题目，支持按难度、关键词进行筛选检索'); })()}</p>
       <div class="hero-stats">
         <div class="hero-stat"><span class="num">${total}</span><span class="label">共 ${total} 题</span></div>
         <div class="hero-stat"><span class="num">${currentPage}</span><span class="label">第 ${currentPage}/${totalPages} 页</span></div>

@@ -645,7 +645,7 @@
       "Agent",
       "LangSmith"
     ],
-    "sub_category": ""
+    "sub_category": "LangChain 与框架"
   },
   {
     "id": 37,
@@ -663,7 +663,7 @@
       "LLM决策",
       "Function Calling"
     ],
-    "sub_category": ""
+    "sub_category": "LangChain 与框架"
   },
   {
     "id": 38,
@@ -681,7 +681,7 @@
       "Orchestrator",
       "Agent协作"
     ],
-    "sub_category": ""
+    "sub_category": "Multi-Agent 系统"
   },
   {
     "id": 39,
@@ -699,7 +699,7 @@
       "System Prompt",
       "Structured Output"
     ],
-    "sub_category": ""
+    "sub_category": "Prompt 工程与安全"
   },
   {
     "id": 40,
@@ -717,7 +717,7 @@
       "LangSmith",
       "幻觉检测"
     ],
-    "sub_category": ""
+    "sub_category": "Agent 基础与架构"
   },
   {
     "id": 41,
@@ -735,7 +735,7 @@
       "幻觉减少",
       "知识库"
     ],
-    "sub_category": ""
+    "sub_category": "RAG 基础"
   },
   {
     "id": 42,
@@ -753,7 +753,7 @@
       "HNSW",
       "向量数据库"
     ],
-    "sub_category": ""
+    "sub_category": "Agent 基础与架构"
   },
   {
     "id": 43,
@@ -771,7 +771,7 @@
       "Checkpointer",
       "Human-in-the-loop"
     ],
-    "sub_category": ""
+    "sub_category": "LangChain 与框架"
   },
   {
     "id": 44,
@@ -789,7 +789,7 @@
       "混合检索",
       "BGE"
     ],
-    "sub_category": ""
+    "sub_category": "RAG 进阶与优化"
   },
   {
     "id": 45,
@@ -807,7 +807,7 @@
       "余弦相似度",
       "Bi-Encoder"
     ],
-    "sub_category": ""
+    "sub_category": "Agent 基础与架构"
   },
   {
     "id": 46,
@@ -825,7 +825,7 @@
       "MCP",
       "并行工具调用"
     ],
-    "sub_category": ""
+    "sub_category": "Function Calling 与 Tool Use"
   },
   {
     "id": 47,
@@ -843,7 +843,7 @@
       "Tool",
       "Resource"
     ],
-    "sub_category": ""
+    "sub_category": "MCP 协议与集成"
   },
   {
     "id": 48,
@@ -861,7 +861,7 @@
       "知识注入",
       "成本对比"
     ],
-    "sub_category": ""
+    "sub_category": "模型与推理优化"
   },
   {
     "id": 49,
@@ -879,7 +879,7 @@
       "代码执行",
       "Multi-Agent"
     ],
-    "sub_category": ""
+    "sub_category": "Multi-Agent 系统"
   },
   {
     "id": 50,
@@ -897,7 +897,7 @@
       "权限最小化",
       "Agent安全"
     ],
-    "sub_category": ""
+    "sub_category": "Prompt 工程与安全"
   },
   {
     "id": 51,
@@ -915,7 +915,7 @@
       "滑动窗口",
       "Prompt Caching"
     ],
-    "sub_category": ""
+    "sub_category": "Agent 基础与架构"
   },
   {
     "id": 52,
@@ -933,7 +933,7 @@
       "KV Cache",
       "推理加速"
     ],
-    "sub_category": ""
+    "sub_category": "模型与推理优化"
   },
   {
     "id": 53,
@@ -951,7 +951,7 @@
       "任务分解",
       "DAG"
     ],
-    "sub_category": ""
+    "sub_category": "Agent 基础与架构"
   },
   {
     "id": 54,
@@ -969,7 +969,7 @@
       "system prompt",
       "多轮对话"
     ],
-    "sub_category": ""
+    "sub_category": "LangChain 与框架"
   },
   {
     "id": 55,
@@ -987,7 +987,7 @@
       "语义记忆",
       "MemGPT"
     ],
-    "sub_category": ""
+    "sub_category": "企业级 Agent 系统设计"
   },
   {
     "id": 56,
@@ -1005,7 +1005,7 @@
       "LLaMA",
       "私有化"
     ],
-    "sub_category": ""
+    "sub_category": "Agent 基础与架构"
   },
   {
     "id": 57,
@@ -1023,7 +1023,7 @@
       "多跳推理",
       "社区检测"
     ],
-    "sub_category": ""
+    "sub_category": "RAG 进阶与优化"
   },
   {
     "id": 58,
@@ -1041,7 +1041,7 @@
       "感知推理行动",
       "Agentic"
     ],
-    "sub_category": ""
+    "sub_category": "Agent 基础与架构"
   },
   {
     "id": 59,
@@ -1059,7 +1059,7 @@
       "可观测性",
       "高可用"
     ],
-    "sub_category": ""
+    "sub_category": "RAG 进阶与优化"
   },
   {
     "id": 60,
@@ -1077,7 +1077,7 @@
       "CoVe",
       "RAGAS"
     ],
-    "sub_category": ""
+    "sub_category": "Agent 基础与架构"
   },
   {
     "id": 61,
@@ -1095,7 +1095,7 @@
       "参数高效微调",
       "LLaMA-Factory"
     ],
-    "sub_category": ""
+    "sub_category": "模型与推理优化"
   },
   {
     "id": 62,
@@ -1113,7 +1113,7 @@
       "约束解码",
       "Outlines"
     ],
-    "sub_category": ""
+    "sub_category": "Agent 基础与架构"
   },
   {
     "id": 63,
@@ -1131,7 +1131,7 @@
       "Qwen",
       "DeepSeek"
     ],
-    "sub_category": ""
+    "sub_category": "模型与推理优化"
   },
   {
     "id": 64,
@@ -1149,7 +1149,7 @@
       "LCEL",
       "astream"
     ],
-    "sub_category": ""
+    "sub_category": "Agent 基础与架构"
   },
   {
     "id": 65,
@@ -1167,7 +1167,7 @@
       "Golden Dataset",
       "AgentBench"
     ],
-    "sub_category": ""
+    "sub_category": "企业级 Agent 系统设计"
   },
   {
     "id": 66,
@@ -1527,7 +1527,7 @@
       "模型路由",
       "GPTCache"
     ],
-    "sub_category": ""
+    "sub_category": "模型与推理优化"
   },
   {
     "id": 86,
@@ -1581,7 +1581,7 @@
       "max_iterations",
       "ReAct"
     ],
-    "sub_category": ""
+    "sub_category": "Agent 基础与架构"
   },
   {
     "id": 89,
@@ -1671,7 +1671,7 @@
       "Self-Correcting",
       "LangGraph"
     ],
-    "sub_category": ""
+    "sub_category": "RAG 进阶与优化"
   },
   {
     "id": 94,
@@ -1725,7 +1725,7 @@
       "Hierarchical",
       "任务分工"
     ],
-    "sub_category": ""
+    "sub_category": "Multi-Agent 系统"
   },
   {
     "id": 97,
@@ -1761,7 +1761,7 @@
       "Thread",
       "OpenAI"
     ],
-    "sub_category": ""
+    "sub_category": "LangChain 与框架"
   },
   {
     "id": 99,
@@ -1797,7 +1797,7 @@
       "意图识别",
       "综合设计"
     ],
-    "sub_category": ""
+    "sub_category": "Agent 基础与架构"
   },
   {
     "id": 101,
@@ -1815,7 +1815,7 @@
       "Agent架构",
       "思维链"
     ],
-    "sub_category": ""
+    "sub_category": "Agent 基础与架构"
   },
   {
     "id": 102,
@@ -1833,7 +1833,7 @@
       "投票",
       "辩论"
     ],
-    "sub_category": ""
+    "sub_category": "Multi-Agent 系统"
   },
   {
     "id": 103,
@@ -1851,7 +1851,7 @@
       "Agent编排",
       "LangChain"
     ],
-    "sub_category": ""
+    "sub_category": "LangChain 与框架"
   },
   {
     "id": 104,
@@ -1869,7 +1869,7 @@
       "NeMo Guardrails",
       "审计"
     ],
-    "sub_category": ""
+    "sub_category": "Function Calling 与 Tool Use"
   },
   {
     "id": 105,
@@ -1887,7 +1887,7 @@
       "Tracing",
       "Prometheus"
     ],
-    "sub_category": ""
+    "sub_category": "企业级 Agent 系统设计"
   },
   {
     "id": 106,
@@ -1905,7 +1905,7 @@
       "向量数据库选型",
       "Hybrid Search"
     ],
-    "sub_category": ""
+    "sub_category": "Agent 基础与架构"
   },
   {
     "id": 107,
@@ -1923,7 +1923,7 @@
       "Jina",
       "MTEB"
     ],
-    "sub_category": ""
+    "sub_category": "模型与推理优化"
   },
   {
     "id": 108,
@@ -1941,7 +1941,7 @@
       "Ground Truth",
       "召回率"
     ],
-    "sub_category": ""
+    "sub_category": "RAG 进阶与优化"
   },
   {
     "id": 109,
@@ -1959,7 +1959,7 @@
       "Model Router",
       "成本控制"
     ],
-    "sub_category": ""
+    "sub_category": "模型与推理优化"
   },
   {
     "id": 110,
@@ -1977,7 +1977,7 @@
       "视觉Grounding",
       "ColPali"
     ],
-    "sub_category": ""
+    "sub_category": "Agent 基础与架构"
   },
   {
     "id": 111,
@@ -1995,7 +1995,7 @@
       "RAG",
       "Agent框架"
     ],
-    "sub_category": ""
+    "sub_category": "LangChain 与框架"
   },
   {
     "id": 112,
@@ -2013,7 +2013,7 @@
       "CI/CD",
       "质量门禁"
     ],
-    "sub_category": ""
+    "sub_category": "Agent 基础与架构"
   },
   {
     "id": 113,
@@ -2031,7 +2031,7 @@
       "负载均衡",
       "API管理"
     ],
-    "sub_category": ""
+    "sub_category": "企业级 Agent 系统设计"
   },
   {
     "id": 114,
@@ -2049,7 +2049,7 @@
       "Redis",
       "LangGraph"
     ],
-    "sub_category": ""
+    "sub_category": "Agent 基础与架构"
   },
   {
     "id": 115,
@@ -2067,7 +2067,7 @@
       "工程化",
       "Git"
     ],
-    "sub_category": ""
+    "sub_category": "Prompt 工程与安全"
   },
   {
     "id": 116,
@@ -2085,7 +2085,7 @@
       "Query Expansion",
       "RAG优化"
     ],
-    "sub_category": ""
+    "sub_category": "RAG 进阶与优化"
   },
   {
     "id": 117,
@@ -2103,7 +2103,7 @@
       "重试策略",
       "鲁棒性"
     ],
-    "sub_category": ""
+    "sub_category": "Agent 基础与架构"
   },
   {
     "id": 118,
@@ -2121,7 +2121,7 @@
       "类型注解",
       "CI/CD"
     ],
-    "sub_category": ""
+    "sub_category": "Agent 基础与架构"
   },
   {
     "id": 119,
@@ -2139,7 +2139,7 @@
       "语义记忆",
       "Mem0"
     ],
-    "sub_category": ""
+    "sub_category": "企业级 Agent 系统设计"
   },
   {
     "id": 120,
@@ -2157,7 +2157,7 @@
       "Kafka",
       "多租户"
     ],
-    "sub_category": ""
+    "sub_category": "RAG 进阶与优化"
   },
   {
     "id": 121,
@@ -2175,7 +2175,7 @@
       "LangGraph",
       "Self-RAG"
     ],
-    "sub_category": ""
+    "sub_category": "RAG 进阶与优化"
   },
   {
     "id": 122,
@@ -2193,7 +2193,7 @@
       "架构决策",
       "成本分析"
     ],
-    "sub_category": ""
+    "sub_category": "LangChain 与框架"
   },
   {
     "id": 123,
@@ -2211,7 +2211,7 @@
       "Rate Limit",
       "Fallback"
     ],
-    "sub_category": ""
+    "sub_category": "Function Calling 与 Tool Use"
   },
   {
     "id": 124,
@@ -2229,7 +2229,7 @@
       "链式调用",
       "管道"
     ],
-    "sub_category": ""
+    "sub_category": "LangChain 与框架"
   },
   {
     "id": 125,
@@ -2247,7 +2247,7 @@
       "沙箱",
       "API Key管理"
     ],
-    "sub_category": ""
+    "sub_category": "Agent 基础与架构"
   },
   {
     "id": 126,
@@ -2265,7 +2265,7 @@
       "多租户",
       "扩展性"
     ],
-    "sub_category": ""
+    "sub_category": "企业级 Agent 系统设计"
   },
   {
     "id": 127,
@@ -5058,7 +5058,7 @@
       "Agent 开发",
       "AI 应用开发"
     ],
-    "sub_category": ""
+    "sub_category": "MCP 协议与集成"
   },
   {
     "id": 297,
@@ -5076,7 +5076,7 @@
       "RAG",
       "编程导航"
     ],
-    "sub_category": ""
+    "sub_category": "RAG 基础"
   },
   {
     "id": 298,
@@ -5093,7 +5093,7 @@
       "大模型",
       "RAG"
     ],
-    "sub_category": ""
+    "sub_category": "RAG 基础"
   },
   {
     "id": 299,
@@ -5111,7 +5111,7 @@
       "A2A",
       "系统架构"
     ],
-    "sub_category": ""
+    "sub_category": "Multi-Agent 系统"
   },
   {
     "id": 300,
@@ -5128,7 +5128,7 @@
       "大模型",
       "RAG"
     ],
-    "sub_category": ""
+    "sub_category": "RAG 进阶与优化"
   },
   {
     "id": 301,
@@ -5144,7 +5144,7 @@
       "AI",
       "大模型"
     ],
-    "sub_category": ""
+    "sub_category": "MCP 协议与集成"
   },
   {
     "id": 302,
@@ -5161,7 +5161,7 @@
       "大模型",
       "RAG"
     ],
-    "sub_category": ""
+    "sub_category": "RAG 基础"
   },
   {
     "id": 303,
@@ -5179,7 +5179,7 @@
       "A2A",
       "技术栈"
     ],
-    "sub_category": ""
+    "sub_category": "Multi-Agent 系统"
   },
   {
     "id": 304,
@@ -5196,7 +5196,7 @@
       "大模型",
       "RAG"
     ],
-    "sub_category": ""
+    "sub_category": "Agent 基础与架构"
   },
   {
     "id": 305,
@@ -5213,7 +5213,7 @@
       "AI",
       "A2A"
     ],
-    "sub_category": ""
+    "sub_category": "Multi-Agent 系统"
   },
   {
     "id": 306,
@@ -5230,7 +5230,7 @@
       "大模型",
       "RAG"
     ],
-    "sub_category": ""
+    "sub_category": "RAG 进阶与优化"
   },
   {
     "id": 307,
@@ -5248,7 +5248,7 @@
       "A2A",
       "MCP"
     ],
-    "sub_category": ""
+    "sub_category": "Multi-Agent 系统"
   },
   {
     "id": 308,
@@ -5265,7 +5265,7 @@
       "大模型",
       "RAG"
     ],
-    "sub_category": ""
+    "sub_category": "RAG 进阶与优化"
   },
   {
     "id": 309,
@@ -5282,7 +5282,7 @@
       "大模型",
       "RAG"
     ],
-    "sub_category": ""
+    "sub_category": "RAG 进阶与优化"
   },
   {
     "id": 310,
@@ -5299,7 +5299,7 @@
       "大模型",
       "RAG"
     ],
-    "sub_category": ""
+    "sub_category": "RAG 进阶与优化"
   },
   {
     "id": 311,
@@ -5316,7 +5316,7 @@
       "大模型",
       "RAG"
     ],
-    "sub_category": ""
+    "sub_category": "RAG 基础"
   },
   {
     "id": 312,
@@ -5333,7 +5333,7 @@
       "大模型",
       "RAG"
     ],
-    "sub_category": ""
+    "sub_category": "RAG 基础"
   },
   {
     "id": 313,
@@ -5350,7 +5350,7 @@
       "大模型",
       "RAG"
     ],
-    "sub_category": ""
+    "sub_category": "RAG 基础"
   },
   {
     "id": 314,
@@ -5367,7 +5367,7 @@
       "大模型",
       "RAG"
     ],
-    "sub_category": ""
+    "sub_category": "RAG 基础"
   },
   {
     "id": 315,
@@ -5384,7 +5384,7 @@
       "大模型",
       "RAG"
     ],
-    "sub_category": ""
+    "sub_category": "RAG 基础"
   },
   {
     "id": 316,
